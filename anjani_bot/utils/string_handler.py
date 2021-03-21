@@ -20,6 +20,8 @@ from typing import List, Union
 
 from pyrogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup
 
+from anjani_bot.core import Anjani
+
 
 @unique
 class Types(IntEnum):
@@ -37,6 +39,8 @@ class Types(IntEnum):
 
 class SendFormating:
     """ A message sending method mapper based on message type """
+    bot: Anjani
+
     def __init__(self):
         self.send_format = {
             Types.TEXT.value: self.bot.client.send_message,
