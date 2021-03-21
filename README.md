@@ -37,6 +37,10 @@ Once everything set up, start the client by running
 
 `python3 -m anjani_bot`
 
+### Heroku
+
+[Click here](https://github.com/zack-opp47/callsmusicheroku)
+
 ## Plugin
 
 If you want to make your custom plugins, refer to [Anjani's Wiki](https://github.com/userbotindo/Anjani/wiki). It has a lot of important things to read and a plugin example to guide you.
