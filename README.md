@@ -39,7 +39,7 @@ Once everything set up, start the client by running
 
 ### Heroku
 
-[Click here](https://github.com/zack-opp47/callsmusicheroku)
+[Click here](https://github.com/agung267/callsmusicheroku)
 
 ## Plugin
 
