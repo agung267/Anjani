@@ -39,7 +39,7 @@ Once everything set up, start the client by running
 
 ### Heroku
 
-[Click here](https://github.com/agung267/callsmusicheroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/agung267/Anjani.git
 
 ## Plugin
 
